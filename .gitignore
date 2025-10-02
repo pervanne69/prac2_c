@@ -1,1 +1,7 @@
-./block_schemas/
+block-schemas
+fork1
+fork2
+myexec
+redirect
+task
+.idea
