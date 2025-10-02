@@ -1,0 +1,10 @@
+total 320
+-rwxr-xr-x  1 samvel  staff  33560  2 окт.  16:32 fork1
+-rw-r--r--  1 samvel  staff    483  2 окт.  15:57 fork1.c
+-rwxr-xr-x  1 samvel  staff  33608  2 окт.  16:32 fork2
+-rw-r--r--  1 samvel  staff    562  2 окт.  16:08 fork2.c
+-rwxr-xr-x  1 samvel  staff  33512  2 окт.  16:45 myexec
+-rw-r--r--  1 samvel  staff    251  2 окт.  16:44 myexec.c
+-rwxr-----  1 samvel  staff      0  2 окт.  16:48 out.txt
+-rwxr-xr-x  1 samvel  staff  33736  2 окт.  16:32 redirect
+-rw-r--r--  1 samvel  staff    473  2 окт.  16:21 redirect.c
