@@ -35,8 +35,5 @@
 Для сборки всех программ используйте GCC:
 
 ```bash
-gcc fork1.c -o fork1
-gcc fork2.c -o fork2
-gcc myexec.c -o myexec
-gcc redirect.c -o redirect
-gcc task.c -o task
+make
+```
